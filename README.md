@@ -7,8 +7,8 @@
 
 # 👨‍💻 Devesh Sawant
 
-🎓 Computer Engineering Student  
-🤖 Passionate about **Artificial Intelligence, Machine Learning, and Deep Learning**  
+🎓 Artificial Intelligence & Data Science Student  
+🤖 Passionate about **Artificial Intelligence, Machine Learning,Deep Learning & Cloud Computing **  
 🌐 Interested in **Web Development and AI-driven solutions**  
 🚀 Focused on building **innovative real-world AI projects**
 
