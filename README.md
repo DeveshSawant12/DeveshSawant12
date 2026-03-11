@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Devesh+Sawant;Computer+Engineering+Student;AI+%7C+Machine+Learning+%7C+Web+Development;Building+Innovative+AI+Solutions+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Devesh+Sawant; Artificial Intelligence & Data Science Student+Student;AI+%7C+Machine+Learning+%7C+Web+Development;Building+Innovative+AI+Solutions+🚀" />
 </p>
 
 ---
