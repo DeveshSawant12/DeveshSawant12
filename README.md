@@ -1,83 +1,126 @@
-Act as a senior open-source developer and GitHub profile designer.
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Devesh+Sawant;Computer+Engineering+Student;AI+%7C+Machine+Learning+%7C+Web+Development;Building+Innovative+AI+Solutions+🚀" />
+</p>
 
-Create a **modern, highly professional, visually impressive GitHub Profile README.md** that looks like top developer profiles on GitHub.
+---
 
-Requirements:
+# 👨‍💻 Devesh Sawant
 
-1. **Animated Header**
+🎓 Computer Engineering Student  
+🤖 Passionate about **Artificial Intelligence, Machine Learning, and Deep Learning**  
+🌐 Interested in **Web Development and AI-driven solutions**  
+🚀 Focused on building **innovative real-world AI projects**
 
-   * Use a typing animation banner.
-   * Display developer name and roles.
+---
 
-2. **Introduction Section**
+# 🚀 About Me
 
-   * Short bio about the developer.
-   * Highlight passion for Artificial Intelligence, Machine Learning, and Web Development.
+- 🔭 Currently working on **AI-based innovative projects**
+- 🤖 Interested in **Artificial Intelligence & Deep Learning**
+- 🌱 Learning **advanced Machine Learning techniques**
+- 🧠 Love solving **real-world problems using technology**
+- 🎯 Goal: Build **impactful AI solutions**
 
-3. **About Me**
+---
 
-   * Bullet points describing interests, projects, and goals.
-   * Mention interest in building innovative AI solutions.
+# 🛠 Tech Stack
 
-4. **Tech Stack Section**
+## 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-   * Display technologies using badges/icons.
-   * Categories:
+## 🌐 Web Technologies
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 
-     * Programming Languages
-     * Web Technologies
-     * AI/ML Tools
-     * Databases
-     * Developer Tools
+## 🤖 AI / ML Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
 
-5. **Current Projects**
+## 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
-   * AI Image Detection System
-   * Smart Chess Assistant
-   * Exam Orbit – Study Timetable Scheduler
+## ⚙ Developer Tools
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
-6. **GitHub Stats**
+---
 
-   * GitHub Stats card
-   * GitHub Streak Stats
-   * Top Languages card
+# 🚀 Current Projects
 
-7. **Featured Projects**
+🔹 **AI Image Detection System**  
+Detect whether an image is AI-generated or real.
 
-   * Highlight important repositories with short descriptions.
+🔹 **Smart Chess Assistant**  
+Uses Stockfish to analyze chess positions and suggest best moves.
 
-8. **Learning Goals**
+🔹 **Exam Orbit – Study Timetable Scheduler**  
+Smart study planning system for students.
 
-   * Deep Learning
-   * Advanced AI systems
-   * Real-world AI applications
+---
 
-9. **Connect With Me**
+# 📊 GitHub Stats
 
-   * LinkedIn
-   * Email
-   * GitHub followers badge
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeveshSawant12&show_icons=true&theme=tokyonight)
 
-10. **Fun Section**
+---
 
-* Developer quote
-* Contribution graph
-* Optional coding GIF or animation
+# 🔥 GitHub Streak
 
-Design Instructions:
+![GitHub Streak](https://streak-stats.demolab.com?user=DeveshSawant12&theme=tokyonight)
 
-* Use clean Markdown.
-* Include shields.io badges.
-* Include GitHub Readme Stats.
-* Make the layout visually attractive and professional.
-* Use emojis and section dividers.
-* Ensure the README looks modern and appealing.
+---
 
-Developer Information:
-Name: Devesh Sawant
-Role: Computer Engineering Student
-Interests: Artificial Intelligence, Machine Learning, Deep Learning, Web Development
-Projects: AI Image Detection, Smart Chess Assistant, Exam Orbit
-Goal: Build innovative AI solutions and impactful real-world projects.
+# 📈 Top Languages
 
-Generate a **complete README.md file ready to paste into GitHub** with working badge links and stats widgets.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveshSawant12&layout=compact&theme=tokyonight)
+
+---
+
+# 🌟 Featured Projects
+
+🚀 **AI Image Detection**  
+Machine learning system to detect AI generated images.
+
+♟ **Smart Chess Assistant**  
+Computer vision + Stockfish based chess helper.
+
+📚 **Exam Orbit**  
+Smart study schedule planner for students.
+
+---
+
+# 🎯 Learning Goals
+
+- 🧠 Deep Learning
+- 🤖 Advanced AI Systems
+- 🌍 Real-world AI Applications
+- 📈 Open Source Contribution
+
+---
+
+# 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]()
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
+
+![Followers](https://img.shields.io/github/followers/DeveshSawant12?style=social)
+
+---
+
+# 💡 Developer Quote
+
+> "The best way to predict the future is to build it."
+
+---
+
+# 📊 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeveshSawant12&theme=tokyo-night)
+
+---
+
+⭐ **Thanks for visiting my GitHub profile!**
